@@ -7,7 +7,6 @@ The changes made here were partially inspired by the wonderful unofficial Obsidi
 List of changes:
  - Stamina regenerates instantly
  - New players start with 1000 inventory
- - Inventory increases have been made free
  - Because stamina is infinite, the stamina-related daily gifts have been replaced with gem gifts
  - Every time the daily gift menu is opened, the amount of free gifts is set to 420 (lifted from Obsidian Edition)
  - The retry cost for the daily gift has been made free
