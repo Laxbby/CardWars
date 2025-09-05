@@ -1,4 +1,19 @@
 # Card Wars
+## Changes in this fork
+This fork is intended to change some of the aspects of the game that reflect common mobile game penny-pinching without adding too many features that feel cheaty. The more cheaty additions are optional in gameplay.
+
+The changes made here were partially inspired by the wonderful unofficial Obsidian Edition of the game, available for Android: https://old.reddit.com/r/CardWars/comments/1f9jwzq/card_wars_for_newer_android_versions/
+
+List of changes:
+ - Stamina regenerates instantly
+ - New players start with 1000 inventory
+ - Inventory increases have been made free
+ - Because stamina is infinite, the stamina-related daily gifts have been replaced with gem gifts
+ - Every time the daily gift menu is opened, the amount of free gifts is set to 420 (lifted from Obsidian Edition)
+ - The retry cost for the daily gift has been made free
+ - the weight of all daily gifts has been equalized (you are equally likely to land on any reward)
+----
+
 A port of the "Adventure Time: Card Wars" mobile game to PC.
 
 Floop the Pig! It's Adventure Time CARD WARS! Play the game inspired by the Adventure TIme episode, 'Card Wars'! Summon creatures and cast spells to battle your way to victory.
