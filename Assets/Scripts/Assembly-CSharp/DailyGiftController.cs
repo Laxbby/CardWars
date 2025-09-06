@@ -75,7 +75,7 @@ public class DailyGiftController : MonoBehaviour
 
 	private void Start()
 	{
-		numFreeGifts = 420;
+		numFreeGifts = InitNumFreeGifts();
 		Reset();
 		WheelAudioSource = GetComponent<AudioSource>();
 		AudioPitch = WheelAudioSource.pitch;
